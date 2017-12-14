@@ -1,5 +1,7 @@
 # sql-injection-filter
 
+Please feel free to email me anytime about this via smillar09@qub.ac.uk, or tweet me @StuartMillar.
+
 Intro
 -----
 This is a simple SQL injection filter that attempts to detect malicious SQL strings from a pre-defined dataset of malicious (including obfuscated) and benign samples.  Note this tool does not carry out sanitisation of input, where input is transformed into something that conforms to a specification.  Blacklisting was used, since there was no context when creating the dataset, which is needed when creating a whitelist, e.g. a whitelist could be a list of ten users who have access to a certain database.
