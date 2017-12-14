@@ -18,3 +18,14 @@ Data-snooping
 -------------
 I get avoid data-snooping may be easier said than done! :) But if you are new to this, hear me out - we don't want to tune the tool too closely to the whole dataset, or it might not generalise well to other SQL samples.  The principle is that if a dataset has been affected or influenced any step in the development process, its ability to assess the outcome has been compromised.  Looking at the dataset too closely and too early in the process is known as data-snooping.  When we datasnoop, we thing we end up with better performance.  When we look at the dataset we are vulnerable to designing the tool depending on the idiosyncrasies of that dataset. So a filter tool performs well on that dataset but it is not known how it performs on an independently generated dataset.  If accuracy is too high then the tool may be overfitted.
 
+Examples
+--------
+For a SQL sample as follows –
+
+admin'--
+
+This is flagged as malicious since two regex patterns match it.  One matches “--“ at the end of the sample, which when included in a SQL query comments out anything afterward on certain implementations, and the other matches “admin’”.  The console output is detailed and lists each sample along with any malicious input found by string checking or using the regexes.  As per the aforementioned, it also has the results at the end, the number of hits (true positives), number of misses (false negatives), correct rejections (true negatives) and false alarms (false positives).  These are used in calculating the malicious SQL detection rate (the true positive rate – how well the tool correctly classifies malicious SQL), the rejection rate (the true negative rate – how well the tool correctly classified benign SQL) and the overall accuracy.  There is basic summary output file written too with each SQL sample, its true label, and the predicted label.
+
+![Example console output - sample analysis](screenshots/sqlToolConsoleOutput.png "Example console output - sample analysis")
+
+
