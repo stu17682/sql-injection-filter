@@ -14,7 +14,7 @@ The methods used are string searches and regexes.  The tool outputs a list of th
 
 The Dataset
 -----------
-If you want the original test dataset, please email me on smillar09@qub.ac.uk.  I may upload it also.  But you can easily use your own too.  10% of the malicious samples and 10% of the benign samples were randomly removed and not used for tuning the tool during development.  The patterns themselves were selected from studying the remaining malicious samples in the dataset.  I'd recommend you do this too, to avoid data-snooping, so that you have two datasets.  Or, create another independent dataset at the start to keep to one side, not to be studied or analysed, and used for testing after you perhaps tune or enchance my filter tool, if that's what you're gonna do!
+This labelled dataset can be found in /dataset.  But you can easily use your own too.  10% of the malicious samples and 10% of the benign samples were randomly removed and not used for tuning the tool during development.  The patterns themselves were selected from studying the remaining malicious samples in the dataset.  I'd recommend you do this too, to avoid data-snooping, so that you have two datasets.  Or, create another independent dataset at the start to keep to one side, not to be studied or analysed, and used for testing after you perhaps tune or enchance my filter tool, if that's what you're gonna do!
 
 Data-snooping
 -------------
